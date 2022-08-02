@@ -38,6 +38,7 @@ const techstack = [
          {name : "Qt"},
          {name : "Redux"},
          {name : "Rust"},
+         {name : "Ruby"},
          {name : "Aurduino"},
          {name : "Scala"},
          {name : "Unreal Engine"},
